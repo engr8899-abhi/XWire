@@ -1,6 +1,6 @@
 # XWire
 
-Try at https://github.com/engr8899-abhi/XWire
+Try at https://engr8899-abhi.github.io/XWire/
 XWire is a node based editor inspired by UE4 Blueprints which helps in better visualization of the code,
 and faster scripting of complex and repetetive tasks.
 It does't bind to any perticular language.
